@@ -2,7 +2,7 @@
 - 👀 I’m interested in IoT, Blockchain, Programming, Art, Life.
 - 🌱 I’m currently learning IoT, embeded programming.
 - 💞️ I’m looking to collaborate on blockchain.
-- 📫 How to reach me oscar(.)tideback@protonmail.com
+- 📫 How to reach me oscar . tideback@protonmail.com
 
 <!---
 Oscar-Tideback/Oscar-Tideback is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Oscar-Tideback
 - 👀 I’m interested in Programming, Test automation, IoT, Blockchain, Art, Life.
 - 🌱 I’m currently learning IoT, embeded programming.
-- 💞️ I’m looking to collaborate on blockchain or embeded programming.
 - 📫 How to reach me oscar . tideback @protonmail.com
 
 <!---
